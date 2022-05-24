@@ -6,7 +6,7 @@ int main(){
     cin >> N;
     for( i=1 ; i<=N ; i=i+1 )
     {
-        for( j=1 ; j<=0 ; j=j+1 )
+        for( j=1 ; j=0 ; j=j+1 )
         {
             cout << " ";
         }
