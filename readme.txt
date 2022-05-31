@@ -14,9 +14,11 @@ ls *.cpp
 
 gcc --help
 
-git status
+
 
 git add .
+
+git status
 
 git commit -m"update"
 
