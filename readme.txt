@@ -2,6 +2,8 @@
 //  more courses : www.codingcoffee.org
 gcc ex7-1.c  
 
+nano ex7-1.cpp
+
 g++ ex7-1.cpp
 
 rm a.out
